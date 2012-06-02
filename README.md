@@ -1,4 +1,5 @@
 Health_Scripts
 ==============
 
-Prototypical Scripts for text processing small caases
+Prototypical Scripts for text processing small cases
+
